@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SSBritto (SHALIN BRITTO S)
 - 👀 I’m interested in learning new things. (Working as a Music Composer and Producer - Part time)
-- 🌱 I learnt tools like SQL, Power BI and Tableau for Data Science and AI from LEARNBAY Institute 
+- 🌱 I learnt tools like SQL, Power BI and Tableau for Data Science and AI from LEARNBAY Institute, Bangalore.
 - 📫 You can reach me via my mail : shalinbritto98@gmail.com
 
 <!---
